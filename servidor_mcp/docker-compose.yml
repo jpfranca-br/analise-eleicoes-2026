@@ -1,0 +1,30 @@
+# Uso (no servidor, a partir da raiz do projeto):
+#   export MCP_TOKEN=$(openssl rand -hex 24)     # guarde e distribua só para quem deve acessar
+#   docker compose -f servidor_mcp/docker-compose.yml up -d --build
+# O MCP fica em http://<servidor>:8000/mcp ; coloque um proxy HTTPS na frente (ex.: Caddy, abaixo).
+services:
+  mcp:
+    build:
+      context: ..
+      dockerfile: servidor_mcp/Dockerfile
+    environment:
+      MCP_TOKEN: ${MCP_TOKEN:?defina MCP_TOKEN}
+      MCP_TIMEOUT_S: "60"
+    volumes:
+      - ../dados/processados:/dados/dados/processados:ro
+      - ../saida:/dados/saida:ro
+      - ../dados/brutos/arqurna:/dados/dados/brutos/arqurna:ro   # opcional (362 GB): habilita a ferramenta log_urna
+    restart: unless-stopped
+    mem_limit: 12g
+
+  caddy:   # HTTPS automático (Let's Encrypt). Troque o domínio no Caddyfile.
+    image: caddy:2
+    ports: ["80:80", "443:443"]
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_dados:/data
+    depends_on: [mcp]
+    restart: unless-stopped
+
+volumes:
+  caddy_dados:

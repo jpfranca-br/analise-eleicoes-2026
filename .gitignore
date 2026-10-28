@@ -1,0 +1,18 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+.tmp/
+tmp_piloto/
+
+# dados grandes: brutos do TSE (~363 GB, baixáveis com scripts/01_baixar.py)
+dados/brutos/
+*.part
+# votos individuais dos logs (1,9 GB): publicados como anexos da Release (scripts/00_baixar_dados_processados.py)
+dados/processados/logs/
+release/
+
+# segredos e execução local do servidor MCP (os logs registram URLs com token)
+servidor_mcp/.mcp_token
+servidor_mcp/.mcp_pid
+logs/

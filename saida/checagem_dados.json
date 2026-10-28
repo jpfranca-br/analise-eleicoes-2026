@@ -1,0 +1,1615 @@
+{
+ "presidente_2026": {
+  "1": {
+   "validos": 119306034,
+   "aptos": 158745502,
+   "comparecimento": 125275835,
+   "abstencoes": 33469244,
+   "brancos": 2300798,
+   "nulos": 3669003,
+   "candidatos": [
+    {
+     "nr": 22,
+     "nome": "FLAVIO BOLSONARO",
+     "partido": "PL",
+     "ideologia": "direita/extrema-direita",
+     "votos": 56104503,
+     "pct_validos": 47.026
+    },
+    {
+     "nr": 13,
+     "nome": "LULA",
+     "partido": "PT",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 53879538,
+     "pct_validos": 45.161
+    },
+    {
+     "nr": 70,
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "partido": "AVANTE",
+     "ideologia": "centro",
+     "votos": 3448569,
+     "pct_validos": 2.891
+    },
+    {
+     "nr": 14,
+     "nome": "RENAN SANTOS",
+     "partido": "MISSÃO",
+     "ideologia": "direita/extrema-direita",
+     "votos": 2675887,
+     "pct_validos": 2.243
+    },
+    {
+     "nr": 55,
+     "nome": "RONALDO CAIADO",
+     "partido": "PSD",
+     "ideologia": "centro-direita",
+     "votos": 2605148,
+     "pct_validos": 2.184
+    },
+    {
+     "nr": 30,
+     "nome": "ZEMA",
+     "partido": "NOVO",
+     "ideologia": "direita/extrema-direita",
+     "votos": 326488,
+     "pct_validos": 0.274
+    },
+    {
+     "nr": 80,
+     "nome": "SAMARA",
+     "partido": "UP",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 122911,
+     "pct_validos": 0.103
+    },
+    {
+     "nr": 16,
+     "nome": "HERTZ DIAS",
+     "partido": "PSTU",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 43103,
+     "pct_validos": 0.036
+    },
+    {
+     "nr": 27,
+     "nome": "CLARIANA BARAO",
+     "partido": "DC",
+     "ideologia": "direita/extrema-direita",
+     "votos": 40043,
+     "pct_validos": 0.034
+    },
+    {
+     "nr": 21,
+     "nome": "EDMILSON COSTA",
+     "partido": "PCB",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 22693,
+     "pct_validos": 0.019
+    },
+    {
+     "nr": 35,
+     "nome": "VETERINÁRIO WILSON GRASSI",
+     "partido": "DEMOCRATA",
+     "ideologia": "centro",
+     "votos": 16881,
+     "pct_validos": 0.014
+    },
+    {
+     "nr": 29,
+     "nome": "RUI COSTA PIMENTA",
+     "partido": "PCO",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 15024,
+     "pct_validos": 0.013
+    },
+    {
+     "nr": 28,
+     "nome": "LEONARDO AVALANCHE",
+     "partido": "PRTB",
+     "ideologia": "direita/extrema-direita",
+     "votos": 5246,
+     "pct_validos": 0.004
+    }
+   ]
+  },
+  "2": {
+   "validos": 124082273,
+   "aptos": 158745502,
+   "comparecimento": 128236074,
+   "abstencoes": 30509005,
+   "brancos": 1430496,
+   "nulos": 2723305,
+   "candidatos": [
+    {
+     "nr": 13,
+     "nome": "LULA",
+     "partido": "PT",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 64256232,
+     "pct_validos": 51.785
+    },
+    {
+     "nr": 22,
+     "nome": "FLAVIO BOLSONARO",
+     "partido": "PL",
+     "ideologia": "direita/extrema-direita",
+     "votos": 59826041,
+     "pct_validos": 48.215
+    }
+   ]
+  }
+ },
+ "presidente_2022": {
+  "1": {
+   "validos": 118229719,
+   "aptos": 156454011,
+   "comparecimento": 123682372,
+   "abstencoes": 32770982,
+   "brancos": 1964779,
+   "nulos": 3487874,
+   "candidatos": [
+    {
+     "nr": 13,
+     "nome": "LULA",
+     "partido": "PT",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 57259504,
+     "pct_validos": 48.431
+    },
+    {
+     "nr": 22,
+     "nome": "JAIR BOLSONARO",
+     "partido": "PL",
+     "ideologia": "direita/extrema-direita",
+     "votos": 51072345,
+     "pct_validos": 43.198
+    },
+    {
+     "nr": 15,
+     "nome": "SIMONE TEBET",
+     "partido": "MDB",
+     "ideologia": "centro",
+     "votos": 4915423,
+     "pct_validos": 4.158
+    },
+    {
+     "nr": 12,
+     "nome": "CIRO GOMES",
+     "partido": "PDT",
+     "ideologia": "centro-esquerda",
+     "votos": 3599287,
+     "pct_validos": 3.044
+    },
+    {
+     "nr": 44,
+     "nome": "SORAYA THRONICKE",
+     "partido": "UNIÃO",
+     "ideologia": "direita/extrema-direita",
+     "votos": 600955,
+     "pct_validos": 0.508
+    },
+    {
+     "nr": 30,
+     "nome": "FELIPE D AVILA",
+     "partido": "NOVO",
+     "ideologia": "direita/extrema-direita",
+     "votos": 559708,
+     "pct_validos": 0.473
+    },
+    {
+     "nr": 14,
+     "nome": "ROBERTO JEFFERSON",
+     "partido": "PTB",
+     "ideologia": "direita/extrema-direita",
+     "votos": 81129,
+     "pct_validos": 0.069
+    },
+    {
+     "nr": 80,
+     "nome": "LÉO PÉRICLES",
+     "partido": "UP",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 53519,
+     "pct_validos": 0.045
+    },
+    {
+     "nr": 21,
+     "nome": "SOFIA MANZANO",
+     "partido": "PCB",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 45620,
+     "pct_validos": 0.039
+    },
+    {
+     "nr": 16,
+     "nome": "VERA",
+     "partido": "PSTU",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 25625,
+     "pct_validos": 0.022
+    },
+    {
+     "nr": 27,
+     "nome": "CONSTITUINTE EYMAEL",
+     "partido": "DC",
+     "ideologia": "direita/extrema-direita",
+     "votos": 16604,
+     "pct_validos": 0.014
+    }
+   ]
+  },
+  "2": {
+   "validos": 118552353,
+   "aptos": 156454011,
+   "comparecimento": 124252796,
+   "abstencoes": 32200558,
+   "brancos": 1769678,
+   "nulos": 3930765,
+   "candidatos": [
+    {
+     "nr": 13,
+     "nome": "LULA",
+     "partido": "PT",
+     "ideologia": "extrema-esquerda/esquerda",
+     "votos": 60345999,
+     "pct_validos": 50.902
+    },
+    {
+     "nr": 22,
+     "nome": "JAIR BOLSONARO",
+     "partido": "PL",
+     "ideologia": "direita/extrema-direita",
+     "votos": 58206354,
+     "pct_validos": 49.098
+    }
+   ]
+  }
+ },
+ "congresso_governadores": {
+  "DEPUTADO FEDERAL_2026": {
+   "total": 513,
+   "por_partido": {
+    "PL": 121,
+    "PT": 70,
+    "UNIÃO": 46,
+    "PSD": 43,
+    "REPUBLICANOS": 41,
+    "PP": 41,
+    "MDB": 36,
+    "PODE": 27,
+    "PSB": 15,
+    "PSOL": 14,
+    "PSDB": 11,
+    "PCDOB": 11,
+    "NOVO": 10,
+    "PV": 7,
+    "PDT": 6,
+    "PRD": 5,
+    "AVANTE": 5,
+    "SOLIDARIEDADE": 2,
+    "MISSÃO": 1,
+    "REDE": 1
+   },
+   "por_campo": {
+    "direita": 335,
+    "esquerda": 124,
+    "centro": 54
+   },
+   "lista": null
+  },
+  "GOVERNADOR_2026": {
+   "total": 27,
+   "por_partido": {
+    "PL": 6,
+    "PSD": 5,
+    "REPUBLICANOS": 4,
+    "PP": 4,
+    "PT": 4,
+    "PSDB": 2,
+    "PODE": 1,
+    "MDB": 1
+   },
+   "por_campo": {
+    "direita": 20,
+    "esquerda": 4,
+    "centro": 3
+   },
+   "lista": [
+    [
+     "AC",
+     "MAILZA ASSIS",
+     "PP"
+    ],
+    [
+     "AL",
+     "JHC",
+     "PSDB"
+    ],
+    [
+     "AM",
+     "OMAR AZIZ",
+     "PSD"
+    ],
+    [
+     "AP",
+     "DR. FURLAN",
+     "PSD"
+    ],
+    [
+     "BA",
+     "JERÔNIMO RODRIGUES",
+     "PT"
+    ],
+    [
+     "CE",
+     "ELMANO DE FREITAS",
+     "PT"
+    ],
+    [
+     "DF",
+     "CELINA LEÃO",
+     "PP"
+    ],
+    [
+     "ES",
+     "LORENZO PAZOLINI",
+     "REPUBLICANOS"
+    ],
+    [
+     "GO",
+     "DANIEL VILELA",
+     "MDB"
+    ],
+    [
+     "MA",
+     "EDUARDO BRAIDE",
+     "PSD"
+    ],
+    [
+     "MG",
+     "CLEITINHO AZEVEDO",
+     "REPUBLICANOS"
+    ],
+    [
+     "MS",
+     "EDUARDO RIEDEL",
+     "PP"
+    ],
+    [
+     "MT",
+     "OTAVIANO PIVETTA",
+     "REPUBLICANOS"
+    ],
+    [
+     "PA",
+     "DR. DANIEL",
+     "PODE"
+    ],
+    [
+     "PB",
+     "LUCAS RIBEIRO",
+     "PP"
+    ],
+    [
+     "PE",
+     "RAQUEL LYRA",
+     "PSD"
+    ],
+    [
+     "PI",
+     "RAFAEL FONTELES",
+     "PT"
+    ],
+    [
+     "PR",
+     "SERGIO MORO",
+     "PL"
+    ],
+    [
+     "RJ",
+     "DOUGLAS RUAS",
+     "PL"
+    ],
+    [
+     "RN",
+     "CADU DE LULA",
+     "PT"
+    ],
+    [
+     "RO",
+     "MARCOS ROGÉRIO",
+     "PL"
+    ],
+    [
+     "RR",
+     "ARTHUR HENRIQUE",
+     "PL"
+    ],
+    [
+     "RS",
+     "ZUCCO",
+     "PL"
+    ],
+    [
+     "SC",
+     "JORGINHO MELLO",
+     "PL"
+    ],
+    [
+     "SE",
+     "FÁBIO",
+     "PSD"
+    ],
+    [
+     "SP",
+     "TARCÍSIO",
+     "REPUBLICANOS"
+    ],
+    [
+     "TO",
+     "VICENTINHO JÚNIOR",
+     "PSDB"
+    ]
+   ]
+  },
+  "SENADOR_2026": {
+   "total": 54,
+   "por_partido": {
+    "PL": 19,
+    "MDB": 7,
+    "PT": 6,
+    "PSB": 3,
+    "NOVO": 3,
+    "PP": 3,
+    "UNIÃO": 3,
+    "REPUBLICANOS": 2,
+    "PODE": 2,
+    "PSDB": 2,
+    "PSD": 2,
+    "PDT": 1,
+    "REDE": 1
+   },
+   "por_campo": {
+    "direita": 34,
+    "centro": 9,
+    "esquerda": 11
+   },
+   "lista": null
+  },
+  "DEPUTADO FEDERAL_2022": {
+   "total": 513,
+   "por_partido": {
+    "PL": 98,
+    "PT": 69,
+    "UNIÃO": 57,
+    "PP": 47,
+    "PSD": 42,
+    "MDB": 41,
+    "REPUBLICANOS": 40,
+    "PDT": 16,
+    "PSB": 15,
+    "PODE": 14,
+    "PSDB": 13,
+    "PSOL": 13,
+    "PC do B": 7,
+    "AVANTE": 7,
+    "PV": 6,
+    "PSC": 6,
+    "CIDADANIA": 5,
+    "SOLIDARIEDADE": 4,
+    "PATRIOTA": 4,
+    "NOVO": 3,
+    "PROS": 3,
+    "REDE": 2,
+    "PTB": 1
+   },
+   "por_campo": {
+    "direita": 315,
+    "esquerda": 128,
+    "centro": 70
+   },
+   "lista": null
+  },
+  "GOVERNADOR_2022": {
+   "total": 27,
+   "por_partido": {
+    "PT": 4,
+    "UNIÃO": 4,
+    "PSB": 3,
+    "MDB": 3,
+    "PSDB": 3,
+    "PSD": 2,
+    "PP": 2,
+    "REPUBLICANOS": 2,
+    "PL": 2,
+    "NOVO": 1,
+    "SOLIDARIEDADE": 1
+   },
+   "por_campo": {
+    "esquerda": 7,
+    "direita": 13,
+    "centro": 7
+   },
+   "lista": [
+    [
+     "AC",
+     "GLADSON CAMELI",
+     "PP"
+    ],
+    [
+     "AL",
+     "PAULO DANTAS",
+     "MDB"
+    ],
+    [
+     "AM",
+     "WILSON LIMA",
+     "UNIÃO"
+    ],
+    [
+     "AP",
+     "CLÉCIO",
+     "SOLIDARIEDADE"
+    ],
+    [
+     "BA",
+     "JERÔNIMO",
+     "PT"
+    ],
+    [
+     "CE",
+     "ELMANO DE FREITAS",
+     "PT"
+    ],
+    [
+     "DF",
+     "IBANEIS ROCHA",
+     "MDB"
+    ],
+    [
+     "ES",
+     "RENATO CASAGRANDE",
+     "PSB"
+    ],
+    [
+     "GO",
+     "RONALDO CAIADO",
+     "UNIÃO"
+    ],
+    [
+     "MA",
+     "CARLOS BRANDÃO",
+     "PSB"
+    ],
+    [
+     "MG",
+     "ZEMA",
+     "NOVO"
+    ],
+    [
+     "MS",
+     "EDUARDO RIEDEL",
+     "PSDB"
+    ],
+    [
+     "MT",
+     "MAURO MENDES",
+     "UNIÃO"
+    ],
+    [
+     "PA",
+     "HELDER",
+     "MDB"
+    ],
+    [
+     "PB",
+     "JOÃO",
+     "PSB"
+    ],
+    [
+     "PE",
+     "RAQUEL LYRA",
+     "PSDB"
+    ],
+    [
+     "PI",
+     "RAFAEL FONTELES",
+     "PT"
+    ],
+    [
+     "PR",
+     "CARLOS MASSA RATINHO JUNIOR",
+     "PSD"
+    ],
+    [
+     "RJ",
+     "CLÁUDIO CASTRO",
+     "PL"
+    ],
+    [
+     "RN",
+     "FATIMA BEZERRA",
+     "PT"
+    ],
+    [
+     "RO",
+     "CORONEL MARCOS ROCHA",
+     "UNIÃO"
+    ],
+    [
+     "RR",
+     "ANTONIO DENARIUM",
+     "PP"
+    ],
+    [
+     "RS",
+     "EDUARDO LEITE",
+     "PSDB"
+    ],
+    [
+     "SC",
+     "JORGINHO MELLO",
+     "PL"
+    ],
+    [
+     "SE",
+     "FÁBIO",
+     "PSD"
+    ],
+    [
+     "SP",
+     "TARCÍSIO",
+     "REPUBLICANOS"
+    ],
+    [
+     "TO",
+     "WANDERLEI BARBOSA",
+     "REPUBLICANOS"
+    ]
+   ]
+  },
+  "SENADOR_2022": {
+   "total": 27,
+   "por_partido": {
+    "PL": 8,
+    "UNIÃO": 5,
+    "PT": 4,
+    "PP": 3,
+    "REPUBLICANOS": 2,
+    "PSD": 2,
+    "MDB": 1,
+    "PSC": 1,
+    "PSB": 1
+   },
+   "por_campo": {
+    "direita": 21,
+    "esquerda": 5,
+    "centro": 1
+   },
+   "lista": null
+  },
+  "SENADO_2027_composicao": {
+   "total": 81,
+   "por_partido": {
+    "PL": 27,
+    "PT": 10,
+    "MDB": 8,
+    "UNIÃO": 8,
+    "PP": 6,
+    "PSB": 4,
+    "REPUBLICANOS": 4,
+    "PSD": 4,
+    "NOVO": 3,
+    "PODE": 2,
+    "PSDB": 2,
+    "PDT": 1,
+    "REDE": 1,
+    "PSC": 1
+   },
+   "por_campo": {
+    "esquerda": 16,
+    "centro": 10,
+    "direita": 55,
+    "?": 0
+   }
+  }
+ },
+ "crescimento_municipal": {
+  "municipios_brasil": 5571,
+  "cidades_exterior": 186,
+  "votos absolutos": {
+   "lula_cresceu": 5621,
+   "flavio_cresceu": 4747,
+   "lula_cresceu_so_brasil": 5491,
+   "flavio_cresceu_so_brasil": 4624
+  },
+  "% dos válidos": {
+   "lula_cresceu": 5698,
+   "flavio_cresceu": 3954,
+   "lula_cresceu_so_brasil": 5567,
+   "flavio_cresceu_so_brasil": 3830
+  },
+  "ganho absoluto maior que o do adversário": {
+   "lula_cresceu": 5323,
+   "flavio_cresceu": 384,
+   "lula_cresceu_so_brasil": 5228,
+   "flavio_cresceu_so_brasil": 339
+  },
+  "ganho em pontos % maior que o do adversário": {
+   "lula_cresceu": 5490,
+   "flavio_cresceu": 225,
+   "lula_cresceu_so_brasil": 5389,
+   "flavio_cresceu_so_brasil": 182
+  },
+  "lider_1t_municipios": {
+   "22": 2906,
+   "13": 2665
+  },
+  "lider_1t_aptos": {
+   "22": 89830667,
+   "13": 67998301
+  },
+  "lider_2t_municipios": {
+   "13": 2876,
+   "22": 2695
+  },
+  "viradas_municipais": {
+   "22->22": 2694,
+   "13->13": 2664,
+   "22->13": 212,
+   "13->22": 1
+  },
+  "ref_2022_votos_absolutos": {
+   "lula_cresceu": 4676,
+   "bolsonaro_cresceu": 5590,
+   "total": 5751
+  }
+ },
+ "transferencias_2026": {
+  "v55": {
+   "votos_1t": 2605148,
+   "para_13": 36.8,
+   "para_22": 55.5,
+   "nao_valido": 7.6
+  },
+  "v14": {
+   "votos_1t": 2675887,
+   "para_13": 36.9,
+   "para_22": 37.1,
+   "nao_valido": 26.0
+  },
+  "v13": {
+   "votos_1t": 53879537,
+   "para_13": 98.7,
+   "para_22": 0.0,
+   "nao_valido": 1.3
+  },
+  "v70": {
+   "votos_1t": 3448568,
+   "para_13": 67.5,
+   "para_22": 27.6,
+   "nao_valido": 4.9
+  },
+  "v22": {
+   "votos_1t": 56104503,
+   "para_13": 0.2,
+   "para_22": 97.9,
+   "nao_valido": 1.8
+  },
+  "outros": {
+   "votos_1t": 592389,
+   "para_13": 16.2,
+   "para_22": 58.0,
+   "nao_valido": 25.8
+  },
+  "nao_valido": {
+   "votos_1t": 39439045,
+   "para_13": 12.9,
+   "para_22": 1.3,
+   "nao_valido": 85.8
+  }
+ },
+ "transferencias_2022": {
+  "v13": {
+   "votos_1t": 57259503,
+   "para_13": 96.5,
+   "para_22": 0.2,
+   "nao_valido": 3.3
+  },
+  "v12": {
+   "votos_1t": 3599287,
+   "para_13": 42.8,
+   "para_22": 39.0,
+   "nao_valido": 18.2
+  },
+  "v22": {
+   "votos_1t": 51072345,
+   "para_13": 0.0,
+   "para_22": 99.8,
+   "nao_valido": 0.2
+  },
+  "v15": {
+   "votos_1t": 4915422,
+   "para_13": 43.8,
+   "para_22": 42.2,
+   "nao_valido": 14.0
+  },
+  "outros": {
+   "votos_1t": 1383160,
+   "para_13": 30.7,
+   "para_22": 53.8,
+   "nao_valido": 15.4
+  },
+  "nao_valido": {
+   "votos_1t": 38223635,
+   "para_13": 2.9,
+   "para_22": 4.1,
+   "nao_valido": 92.9
+  }
+ },
+ "estados": {
+  "2026": {
+   "GO": {
+    "p13_1t": 31.06,
+    "p13_2t": 40.34,
+    "p22_1t": 53.6,
+    "p22_2t": 59.66,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "MT": {
+    "p13_1t": 29.18,
+    "p13_2t": 33.94,
+    "p22_1t": 65.14,
+    "p22_2t": 66.06,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "PR": {
+    "p13_1t": 31.2,
+    "p13_2t": 37.42,
+    "p22_1t": 59.91,
+    "p22_2t": 62.58,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "RS": {
+    "p13_1t": 35.73,
+    "p13_2t": 42.16,
+    "p22_1t": 55.64,
+    "p22_2t": 57.84,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "SC": {
+    "p13_1t": 25.04,
+    "p13_2t": 30.58,
+    "p22_1t": 66.65,
+    "p22_2t": 69.42,
+    "lider_1t": 22,
+    "lider_2t": 22
+   }
+  },
+  "2026_todas_ufs": {
+   "AC": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 28.73,
+    "p13_2t": 33.43,
+    "p22_1t": 64.55,
+    "p22_2t": 66.57
+   },
+   "AL": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 54.73,
+    "p13_2t": 60.77,
+    "p22_1t": 40.45,
+    "p22_2t": 39.23
+   },
+   "AM": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 48.23,
+    "p13_2t": 54.02,
+    "p22_1t": 44.99,
+    "p22_2t": 45.98
+   },
+   "AP": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 45.71,
+    "p13_2t": 52.88,
+    "p22_1t": 45.66,
+    "p22_2t": 47.12
+   },
+   "BA": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 66.17,
+    "p13_2t": 71.31,
+    "p22_1t": 28.53,
+    "p22_2t": 28.69
+   },
+   "CE": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 63.28,
+    "p13_2t": 68.93,
+    "p22_1t": 31.27,
+    "p22_2t": 31.07
+   },
+   "DF": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 38.11,
+    "p13_2t": 45.72,
+    "p22_1t": 51.31,
+    "p22_2t": 54.28
+   },
+   "ES": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 37.76,
+    "p13_2t": 43.63,
+    "p22_1t": 54.78,
+    "p22_2t": 56.37
+   },
+   "GO": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 31.06,
+    "p13_2t": 40.34,
+    "p22_1t": 53.6,
+    "p22_2t": 59.66
+   },
+   "MA": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 63.99,
+    "p13_2t": 69.54,
+    "p22_1t": 30.89,
+    "p22_2t": 30.46
+   },
+   "MG": {
+    "lider_1t": 22,
+    "lider_2t": 13,
+    "p13_1t": 43.32,
+    "p13_2t": 50.43,
+    "p22_1t": 48.24,
+    "p22_2t": 49.57
+   },
+   "MS": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 34.68,
+    "p13_2t": 40.4,
+    "p22_1t": 58.6,
+    "p22_2t": 59.6
+   },
+   "MT": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 29.18,
+    "p13_2t": 33.94,
+    "p22_1t": 65.14,
+    "p22_2t": 66.06
+   },
+   "PA": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 49.91,
+    "p13_2t": 55.02,
+    "p22_1t": 44.5,
+    "p22_2t": 44.98
+   },
+   "PB": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 61.31,
+    "p13_2t": 67.46,
+    "p22_1t": 33.07,
+    "p22_2t": 32.54
+   },
+   "PE": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 63.45,
+    "p13_2t": 69.2,
+    "p22_1t": 31.03,
+    "p22_2t": 30.8
+   },
+   "PI": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 70.99,
+    "p13_2t": 75.88,
+    "p22_1t": 24.09,
+    "p22_2t": 24.12
+   },
+   "PR": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 31.2,
+    "p13_2t": 37.42,
+    "p22_1t": 59.91,
+    "p22_2t": 62.58
+   },
+   "RJ": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 39.41,
+    "p13_2t": 46.9,
+    "p22_1t": 53.01,
+    "p22_2t": 53.1
+   },
+   "RN": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 59.75,
+    "p13_2t": 65.72,
+    "p22_1t": 34.77,
+    "p22_2t": 34.28
+   },
+   "RO": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 25.89,
+    "p13_2t": 30.39,
+    "p22_1t": 67.45,
+    "p22_2t": 69.61
+   },
+   "RR": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 22.86,
+    "p13_2t": 27.54,
+    "p22_1t": 71.05,
+    "p22_2t": 72.46
+   },
+   "RS": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 35.73,
+    "p13_2t": 42.16,
+    "p22_1t": 55.64,
+    "p22_2t": 57.84
+   },
+   "SC": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 25.04,
+    "p13_2t": 30.58,
+    "p22_1t": 66.65,
+    "p22_2t": 69.42
+   },
+   "SE": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 62.75,
+    "p13_2t": 69.53,
+    "p22_1t": 30.63,
+    "p22_2t": 30.47
+   },
+   "SP": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 38.2,
+    "p13_2t": 46.15,
+    "p22_1t": 51.93,
+    "p22_2t": 53.85
+   },
+   "TO": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 43.42,
+    "p13_2t": 48.63,
+    "p22_1t": 50.44,
+    "p22_2t": 51.37
+   },
+   "ZZ": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 47.55,
+    "p13_2t": 53.86,
+    "p22_1t": 43.47,
+    "p22_2t": 46.14
+   }
+  },
+  "2022": {
+   "GO": {
+    "p13_1t": 39.51,
+    "p13_2t": 41.29,
+    "p22_1t": 52.16,
+    "p22_2t": 58.71,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "MT": {
+    "p13_1t": 34.39,
+    "p13_2t": 34.92,
+    "p22_1t": 59.84,
+    "p22_2t": 65.08,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "PR": {
+    "p13_1t": 35.99,
+    "p13_2t": 37.6,
+    "p22_1t": 55.26,
+    "p22_2t": 62.4,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "RS": {
+    "p13_1t": 42.28,
+    "p13_2t": 43.65,
+    "p22_1t": 48.89,
+    "p22_2t": 56.35,
+    "lider_1t": 22,
+    "lider_2t": 22
+   },
+   "SC": {
+    "p13_1t": 29.54,
+    "p13_2t": 30.73,
+    "p22_1t": 62.21,
+    "p22_2t": 69.27,
+    "lider_1t": 22,
+    "lider_2t": 22
+   }
+  },
+  "2022_todas_ufs": {
+   "AC": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 29.26,
+    "p13_2t": 29.7,
+    "p22_1t": 62.5,
+    "p22_2t": 70.3
+   },
+   "AL": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 56.5,
+    "p13_2t": 58.68,
+    "p22_1t": 36.05,
+    "p22_2t": 41.32
+   },
+   "AM": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 49.58,
+    "p13_2t": 51.1,
+    "p22_1t": 42.8,
+    "p22_2t": 48.9
+   },
+   "AP": {
+    "lider_1t": 13,
+    "lider_2t": 22,
+    "p13_1t": 45.67,
+    "p13_2t": 48.64,
+    "p22_1t": 43.41,
+    "p22_2t": 51.36
+   },
+   "BA": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 69.73,
+    "p13_2t": 72.12,
+    "p22_1t": 24.31,
+    "p22_2t": 27.88
+   },
+   "CE": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 65.91,
+    "p13_2t": 69.97,
+    "p22_1t": 25.38,
+    "p22_2t": 30.03
+   },
+   "DF": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 36.85,
+    "p13_2t": 41.19,
+    "p22_1t": 51.65,
+    "p22_2t": 58.81
+   },
+   "ES": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 40.4,
+    "p13_2t": 41.96,
+    "p22_1t": 52.23,
+    "p22_2t": 58.04
+   },
+   "GO": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 39.51,
+    "p13_2t": 41.29,
+    "p22_1t": 52.16,
+    "p22_2t": 58.71
+   },
+   "MA": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 68.84,
+    "p13_2t": 71.14,
+    "p22_1t": 26.02,
+    "p22_2t": 28.86
+   },
+   "MG": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 48.29,
+    "p13_2t": 50.2,
+    "p22_1t": 43.6,
+    "p22_2t": 49.8
+   },
+   "MS": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 39.04,
+    "p13_2t": 40.51,
+    "p22_1t": 52.7,
+    "p22_2t": 59.49
+   },
+   "MT": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 34.39,
+    "p13_2t": 34.92,
+    "p22_1t": 59.84,
+    "p22_2t": 65.08
+   },
+   "PA": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 52.22,
+    "p13_2t": 54.75,
+    "p22_1t": 40.27,
+    "p22_2t": 45.25
+   },
+   "PB": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 64.21,
+    "p13_2t": 66.62,
+    "p22_1t": 29.62,
+    "p22_2t": 33.38
+   },
+   "PE": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 65.27,
+    "p13_2t": 66.93,
+    "p22_1t": 29.91,
+    "p22_2t": 33.07
+   },
+   "PI": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 74.25,
+    "p13_2t": 76.86,
+    "p22_1t": 19.9,
+    "p22_2t": 23.14
+   },
+   "PR": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 35.99,
+    "p13_2t": 37.6,
+    "p22_1t": 55.26,
+    "p22_2t": 62.4
+   },
+   "RJ": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 40.68,
+    "p13_2t": 43.47,
+    "p22_1t": 51.09,
+    "p22_2t": 56.53
+   },
+   "RN": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 62.98,
+    "p13_2t": 65.1,
+    "p22_1t": 31.02,
+    "p22_2t": 34.9
+   },
+   "RO": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 28.98,
+    "p13_2t": 29.34,
+    "p22_1t": 64.36,
+    "p22_2t": 70.66
+   },
+   "RR": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 23.05,
+    "p13_2t": 23.92,
+    "p22_1t": 69.57,
+    "p22_2t": 76.08
+   },
+   "RS": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 42.28,
+    "p13_2t": 43.65,
+    "p22_1t": 48.89,
+    "p22_2t": 56.35
+   },
+   "SC": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 29.54,
+    "p13_2t": 30.73,
+    "p22_1t": 62.21,
+    "p22_2t": 69.27
+   },
+   "SE": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 63.82,
+    "p13_2t": 67.21,
+    "p22_1t": 29.16,
+    "p22_2t": 32.79
+   },
+   "SP": {
+    "lider_1t": 22,
+    "lider_2t": 22,
+    "p13_1t": 40.89,
+    "p13_2t": 44.76,
+    "p22_1t": 47.71,
+    "p22_2t": 55.24
+   },
+   "TO": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 50.4,
+    "p13_2t": 51.36,
+    "p22_1t": 44.0,
+    "p22_2t": 48.64
+   },
+   "ZZ": {
+    "lider_1t": 13,
+    "lider_2t": 13,
+    "p13_1t": 47.17,
+    "p13_2t": 51.28,
+    "p22_1t": 41.61,
+    "p22_2t": 48.72
+   }
+  }
+ },
+ "apuracao": {
+  "2026_2t": {
+   "secoes": 499248,
+   "sem_horario_recebimento": 0,
+   "sem_horario_totalizacao": 0,
+   "rec": {
+    "primeira": "2026-10-25 17:03:25",
+    "p50": "2026-10-25 20:26:25",
+    "p90": "2026-10-25 21:01:27",
+    "p99": "2026-10-25 21:09:39",
+    "ultima": "2026-10-25 23:21:40",
+    "maior_pausa_min_ate_99pct": 34.3,
+    "maior_pausa_inicio": "2026-10-25 17:59:08",
+    "maior_pausa_fim": "2026-10-25 18:33:25",
+    "pausas_maiores_que_5min": 5
+   },
+   "tot": {
+    "primeira": "2026-10-25 17:05:21",
+    "p50": "2026-10-25 20:26:48",
+    "p90": "2026-10-25 21:01:47",
+    "p99": "2026-10-25 21:10:05",
+    "ultima": "2026-10-25 23:21:51",
+    "maior_pausa_min_ate_99pct": 115.3,
+    "maior_pausa_inicio": "2026-10-25 17:07:37",
+    "maior_pausa_fim": "2026-10-25 19:02:54",
+    "pausas_maiores_que_5min": 1
+   },
+   "evolucao_pct_lula_por_secoes_totalizadas": {
+    "10%": {
+     "hora": "2026-10-25 19:38:14",
+     "pct_lula": 50.5
+    },
+    "25%": {
+     "hora": "2026-10-25 20:03:01",
+     "pct_lula": 49.49
+    },
+    "50%": {
+     "hora": "2026-10-25 20:26:48",
+     "pct_lula": 50.12
+    },
+    "75%": {
+     "hora": "2026-10-25 20:48:15",
+     "pct_lula": 51.08
+    },
+    "90%": {
+     "hora": "2026-10-25 21:01:47",
+     "pct_lula": 51.57
+    },
+    "99%": {
+     "hora": "2026-10-25 21:10:05",
+     "pct_lula": 51.76
+    },
+    "100%": {
+     "hora": "2026-10-25 23:21:51",
+     "pct_lula": 51.79
+    }
+   },
+   "trocas_de_lider_apos_1pct": 45
+  },
+  "2026_1t": {
+   "secoes": 499248,
+   "sem_horario_recebimento": 0,
+   "sem_horario_totalizacao": 0,
+   "rec": {
+    "primeira": "2026-10-04 17:08:44",
+    "p50": "2026-10-04 18:44:51",
+    "p90": "2026-10-04 20:13:00",
+    "p99": "2026-10-04 21:13:46",
+    "ultima": "2026-10-05 02:58:30",
+    "maior_pausa_min_ate_99pct": 27.5,
+    "maior_pausa_inicio": "2026-10-04 19:31:50",
+    "maior_pausa_fim": "2026-10-04 19:59:22",
+    "pausas_maiores_que_5min": 2
+   },
+   "tot": {
+    "primeira": "2026-10-04 17:08:57",
+    "p50": "2026-10-04 18:46:51",
+    "p90": "2026-10-04 20:16:26",
+    "p99": "2026-10-04 21:13:52",
+    "ultima": "2026-10-05 02:58:39",
+    "maior_pausa_min_ate_99pct": 18.4,
+    "maior_pausa_inicio": "2026-10-04 19:45:15",
+    "maior_pausa_fim": "2026-10-04 20:03:42",
+    "pausas_maiores_que_5min": 4
+   },
+   "evolucao_pct_lula_por_secoes_totalizadas": {
+    "10%": {
+     "hora": "2026-10-04 17:53:18",
+     "pct_lula": 44.46
+    },
+    "25%": {
+     "hora": "2026-10-04 18:20:29",
+     "pct_lula": 44.56
+    },
+    "50%": {
+     "hora": "2026-10-04 18:46:51",
+     "pct_lula": 45.4
+    },
+    "75%": {
+     "hora": "2026-10-04 19:17:14",
+     "pct_lula": 46.6
+    },
+    "90%": {
+     "hora": "2026-10-04 20:16:26",
+     "pct_lula": 47.76
+    },
+    "99%": {
+     "hora": "2026-10-04 21:13:52",
+     "pct_lula": 48.77
+    },
+    "100%": {
+     "hora": "2026-10-05 02:58:39",
+     "pct_lula": 48.99
+    }
+   },
+   "trocas_de_lider_apos_1pct": 0
+  },
+  "2022_2t": {
+   "secoes": 472075,
+   "sem_horario_recebimento": 0,
+   "sem_horario_totalizacao": 0,
+   "rec": {
+    "primeira": "2022-10-30 01:20:48",
+    "p50": "2022-10-30 18:26:12",
+    "p90": "2022-10-30 19:09:01",
+    "p99": "2022-10-30 20:00:28",
+    "ultima": "2022-10-31 00:17:31",
+    "maior_pausa_min_ate_99pct": 114.5,
+    "maior_pausa_inicio": "2022-10-30 01:20:48",
+    "maior_pausa_fim": "2022-10-30 03:15:20",
+    "pausas_maiores_que_5min": 34
+   },
+   "tot": {
+    "primeira": "2022-10-30 17:00:51",
+    "p50": "2022-10-30 18:26:53",
+    "p90": "2022-10-30 19:09:26",
+    "p99": "2022-10-30 20:00:46",
+    "ultima": "2022-10-31 00:18:04",
+    "maior_pausa_min_ate_99pct": 1.0,
+    "maior_pausa_inicio": "2022-10-30 17:01:51",
+    "maior_pausa_fim": "2022-10-30 17:02:52",
+    "pausas_maiores_que_5min": 0
+   },
+   "evolucao_pct_lula_por_secoes_totalizadas": {
+    "10%": {
+     "hora": "2022-10-30 17:33:41",
+     "pct_lula": 47.98
+    },
+    "25%": {
+     "hora": "2022-10-30 17:55:43",
+     "pct_lula": 48.74
+    },
+    "50%": {
+     "hora": "2022-10-30 18:26:53",
+     "pct_lula": 49.7
+    },
+    "75%": {
+     "hora": "2022-10-30 18:51:36",
+     "pct_lula": 50.17
+    },
+    "90%": {
+     "hora": "2022-10-30 19:09:26",
+     "pct_lula": 50.53
+    },
+    "99%": {
+     "hora": "2022-10-30 20:00:46",
+     "pct_lula": 50.84
+    },
+    "100%": {
+     "hora": "2022-10-31 00:18:04",
+     "pct_lula": 50.9
+    }
+   },
+   "trocas_de_lider_apos_1pct": 4
+  }
+ },
+ "classificacao_ideologica": {
+  "extrema-esquerda/esquerda": [
+   "PSOL",
+   "PCO",
+   "PSTU",
+   "PCB",
+   "UP",
+   "PT",
+   "PCDOB",
+   "PC do B"
+  ],
+  "centro-esquerda": [
+   "PSB",
+   "PDT",
+   "PV",
+   "REDE"
+  ],
+  "centro": [
+   "MDB",
+   "PSDB",
+   "CIDADANIA",
+   "SOLIDARIEDADE",
+   "AVANTE",
+   "PMB",
+   "PMN",
+   "MOBILIZA",
+   "AGIR",
+   "DEMOCRATA"
+  ],
+  "centro-direita": [
+   "PSD",
+   "PODE",
+   "PROS"
+  ],
+  "direita/extrema-direita": [
+   "PL",
+   "PP",
+   "REPUBLICANOS",
+   "UNIÃO",
+   "NOVO",
+   "PRTB",
+   "PSC",
+   "PTB",
+   "PATRIOTA",
+   "PRD",
+   "DC",
+   "MISSÃO"
+  ]
+ }
+}

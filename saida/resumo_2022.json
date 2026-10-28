@@ -1,0 +1,172 @@
+{
+  "ano": 2022,
+  "secoes": 472075,
+  "secoes_instaveis_excluidas_A_B_D1": 692,
+  "secoes_com_log_2t": 471983,
+  "secoes_com_log_1t": 471859,
+  "integridade_1t": {
+    "secoes_comparadas": 471859,
+    "secoes_log_diferente_do_bu": 100,
+    "soma_diferencas": -2371
+  },
+  "integridade_2t": {
+    "secoes_comparadas": 471983,
+    "secoes_log_diferente_do_bu": 53,
+    "soma_diferencas": -912
+  },
+  "A_sensibilidade": {
+    "logit+splines, por UF, efeito fixo de município (principal)": {
+      "n_forte": 309,
+      "pro_13": 175,
+      "pro_22": 134
+    },
+    "logit+splines, por UF, efeito fixo de zona": {
+      "n_forte": 320,
+      "pro_13": 168,
+      "pro_22": 152
+    },
+    "logit+splines, por UF, efeito fixo de local de votação": {
+      "n_forte": 397,
+      "pro_13": 221,
+      "pro_22": 176
+    },
+    "linear simples nas proporções, efeito fixo de município": {
+      "n_forte": 293,
+      "pro_13": 114,
+      "pro_22": 179
+    }
+  },
+  "A_votacao": {
+    "secoes_testadas": 471190,
+    "r2_modelo": 0.9336,
+    "sobredispersao": 0.585,
+    "variaveis_1t": [
+      "p12_1",
+      "p13_1",
+      "p15_1",
+      "p22_1",
+      "p30_1",
+      "p44_1",
+      "p_abst_1",
+      "p_branco_1",
+      "p_nulo_1",
+      "p_outros_1",
+      "outros"
+    ],
+    "n_forte": 309,
+    "pct_forte": 0.0656,
+    "forte_pro_13": 175,
+    "forte_pro_22": 134,
+    "n_abs_z_maior_6": 42,
+    "media_z": -0.0038,
+    "teste_simetria_binomial_p": 0.022720716177490594,
+    "curtose": 1.874,
+    "forte_em_local_indigena": 33,
+    "pct_secoes_pais_em_local_indigena": 0.154,
+    "fora_indigena_pro_13": 147,
+    "fora_indigena_pro_22": 129
+  },
+  "B_abst": {
+    "secoes_testadas": 471269,
+    "r2_modelo": 0.8185,
+    "sobredispersao": 0.768,
+    "n_forte_alta": 591,
+    "n_forte_baixa": 602,
+    "pct_forte": 0.2531,
+    "media_1t": 0.20823,
+    "media_2t": 0.20558
+  },
+  "B_branco": {
+    "secoes_testadas": 471269,
+    "r2_modelo": 0.1577,
+    "sobredispersao": 0.962,
+    "n_forte_alta": 414,
+    "n_forte_baixa": 0,
+    "pct_forte": 0.0878,
+    "media_1t": 0.01568,
+    "media_2t": 0.01404
+  },
+  "B_nulo": {
+    "secoes_testadas": 471269,
+    "r2_modelo": 0.2624,
+    "sobredispersao": 0.983,
+    "n_forte_alta": 607,
+    "n_forte_baixa": 2,
+    "pct_forte": 0.1292,
+    "media_1t": 0.02807,
+    "media_2t": 0.03123
+  },
+  "C_fluxo_pos17": {
+    "secoes_testadas": 471860,
+    "pct_votos_pos17_2t": 0.0333,
+    "pct_votos_pos17_1t": 3.5092,
+    "dist_2t": {
+      "total_votos_pos17": 41413,
+      "secoes_com_pos17": 34980,
+      "secoes_ge10": 85,
+      "secoes_ge30": 8,
+      "max": 50
+    },
+    "dist_1t": {
+      "total_votos_pos17": 4338575,
+      "secoes_com_pos17": 215697,
+      "secoes_ge10": 114045,
+      "secoes_ge30": 56080,
+      "max": 234
+    },
+    "n_sig_fdr_ge10": 36,
+    "n_ritmo_pos17_acima_pico_dia": 40,
+    "n_secoes_com_rajadas_pos17_ge5": 3,
+    "mediana_intervalo_entre_votos_dia_s": 73.0,
+    "mediana_intervalo_entre_votos_pos17_s": 472.0,
+    "votos_antes_8h": 0,
+    "secoes_ultimo_voto_apos_19h": 2
+  },
+  "D_biometria": {
+    "D1_entre_turnos": {
+      "secoes_testadas": 471027,
+      "sobredispersao": 0.955,
+      "pct_manual_1t": 8.728,
+      "pct_manual_2t": 8.062,
+      "n_forte_aumento": 1008,
+      "n_forte_queda": 1123
+    },
+    "D2_fim_do_dia": {
+      "secoes_testadas": 374090,
+      "pct_manual_ate16h": 8.147,
+      "pct_manual_16h_em_diante": 6.617,
+      "n_sig_fdr": 42
+    },
+    "secoes_pct_manual_2t_acima_30": 3998,
+    "secoes_pct_manual_2t_acima_50": 320
+  },
+  "E_impressao_digital": {
+    "secoes": 471019,
+    "nota": "coeficiente = variação do z_A (pró-Lula > 0) para +1 desvio-padrão do indicador; efeito fixo de município",
+    "coeficientes": {
+      "d_pct_manual": -0.0,
+      "pct_pos17_2": -0.0039,
+      "d_p_abst": -0.0353
+    },
+    "correlacoes_simples": {
+      "d_pct_manual": -0.0006,
+      "pct_pos17_2": -0.0039,
+      "d_p_abst": -0.023
+    }
+  },
+  "sinais_por_motivo": {
+    "voto 2T muito acima do esperado p/ Lula": 175,
+    "voto 2T muito acima do esperado p/ Flávio": 134,
+    "abst 2T fora do esperado": 1193,
+    "branco 2T fora do esperado": 414,
+    "nulo 2T fora do esperado": 609,
+    "excesso de votos após 17h": 36,
+    "ritmo após 17h acima do pico do dia": 40,
+    "rajada de votos <30s após 17h": 3,
+    "salto de votos sem biometria vs 1T": 1008,
+    "sem biometria concentrado no fim do dia": 42
+  },
+  "secoes_com_1_sinal": 3446,
+  "secoes_com_2+_sinais": 102,
+  "secoes_com_3+_sinais": 4
+}

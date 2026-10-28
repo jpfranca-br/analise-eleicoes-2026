@@ -1,0 +1,49 @@
+uf;cd_municipio;nr_zona;nr_secao;motivo;nm_municipio;nm_local
+BA;35653;173;235;log com 204 votos, BU com 217 (contingência=True, origem=Urna Eletrônica);IBOTIRAMA;COLEGIO MUNICIPAL CENTRO DA ESPERANCA
+RS;89060;17;191;log com 90 votos, BU com 92 (contingência=True, origem=Urna Eletrônica);BOA VISTA DO INCRA;SALAO COMUNITARIO DO ASSENTAMENTO SANTO IZIDRO I
+PI;11533;3;216;log com 258 votos, BU com 259 (contingência=False, origem=Urna Eletrônica);PARNAÍBA;ESCOLA MUNICIPAL FRANCISCA RIBEIRO BORGES DOS REIS (CHIQUITA BORGES)
+BA;34711;21;178;log com 233 votos, BU com 234 (contingência=False, origem=Urna Eletrônica);CONDE;CENTRO INTEGRADO DE EDUCAÇÃO DE CONDE - CIEC
+PB;21750;2;254;log com 303 votos, BU com 304 (contingência=False, origem=Urna Eletrônica);SANTA RITA;EMEF E EJA FLÁVIO MAROJA FILHO
+ES;57932;9;85;log com 612 votos, BU com 308 (contingência=True, origem=BU gerado por RED em urna de seção *** RED - Recuperador de dados);SANTA MARIA DE JETIBÁ;EEEFM GRAÇA ARANHA
+MA;8893;47;609;log com 188 votos, BU com 224 (contingência=True, origem=Urna Eletrônica);SÃO JOSÉ DE RIBAMAR;COLEGIO MARISTA ARACAGY
+MG;46256;131;46;125 voto(s) registrados depois do horário de encerramento do log;IPATINGA;ESCOLA MUNICIPAL ZELIA DUARTE PASSOS
+BA;38490;5;449;1 voto(s) depois de 19h (último às 19h01m30s);SALVADOR;ESCOLA MUNICIPAL MAXIMINIANO DA ENCARNAÇÃO
+SP;71072;350;604;1 voto(s) depois de 19h (último às 19h00m57s);SÃO PAULO;EMEF PROFª MARLENE RONDELLI
+SP;71072;1;247;1 voto(s) depois de 19h (último às 19h00m25s);SÃO PAULO;EE. CAETANO DE CAMPOS
+RJ;60011;17;397;1 voto(s) depois de 19h (último às 19h01m56s);RIO DE JANEIRO;ESCOLA PENEDO
+RJ;60011;238;183;1 voto(s) depois de 19h (último às 19h00m08s);RIO DE JANEIRO;ESCOLA MUNICIPAL OSCAR THOMPSOM
+SP;71072;375;734;1 voto(s) depois de 19h (último às 19h05m14s);SÃO PAULO;CEU EMEI PROF ROQUE SPENCER MACIEL DE BARROS
+RJ;60011;245;223;1 voto(s) depois de 19h (último às 19h00m53s);RIO DE JANEIRO;COLÉGIO ESTADUAL PROFESSOR FERNANDO ANTÔNIO RAJA GABAGLIA
+SP;71072;2;37;1 voto(s) depois de 19h (último às 19h00m08s);SÃO PAULO;PUC - PONTIFÍCIA UNIVERSIDADE CATÓLICA
+BA;38490;10;909;1 voto(s) depois de 19h (último às 19h01m48s);SALVADOR; COLÉGIO CÂNDIDO PORTINARI
+RJ;60011;234;5;1 voto(s) depois de 19h (último às 19h00m18s);RIO DE JANEIRO;ESCOLA MUNICIPAL STELLA GUERRA DUVAL
+SP;71072;1;405;1 voto(s) depois de 19h (último às 19h06m21s);SÃO PAULO;MACKENZIE PRÉDIO 18 - PIAUÍ
+MG;46256;131;46;encerramento registrado 386 min antes das 17h;IPATINGA;ESCOLA MUNICIPAL ZELIA DUARTE PASSOS
+MA;9210;89;534;seção redesenhada? comparecimento 1T 287 > aptos 2T 276;SÃO LUÍS;CECEN/UEMA
+CE;15598;121;315;seção redesenhada? comparecimento 1T 31 > aptos 2T 28;SOBRAL;PENITENCIARIA INDUSTRIAL REGIONAL DE SOBRAL - PIRS
+MA;9210;2;513;seção redesenhada? comparecimento 1T 168 > aptos 2T 141;SÃO LUÍS;U. E. B. DARCY RIBEIRO VT
+MA;9377;19;622;seção redesenhada? comparecimento 1T 229 > aptos 2T 220;TIMON;POSTO VIVAPROCON - COCAIS SHOPPING
+PE;24910;117;16;seção redesenhada? comparecimento 1T 210 > aptos 2T 136;OLINDA;CENTRO DE CONVENCOES - VOTO EM TRÂNSITO
+SC;80810;94;393;seção redesenhada? comparecimento 1T 288 > aptos 2T 246;CHAPECÓ;UNOCHAPECÓ - UNIVERSIDADE COMUNITÁRIA REGIONAL DE CHAPECÓ
+AL;27855;2;445;seção redesenhada? comparecimento 1T 297 > aptos 2T 291;MACEIÓ;ESCOLA SEB (ANTIGO COC)
+SP;69213;406;368;seção redesenhada? comparecimento 1T 30 > aptos 2T 27;PRAIA GRANDE;CDP - CENTRO DE DETENÇÃO PROVISÓRIA - PRAIA GRANDE
+PE;25313;5;516;seção redesenhada? comparecimento 1T 327 > aptos 2T 310;RECIFE;CENTRO DE CIÊNCIAS SOCIAIS APLICADAS - UFPE - VOTO EM TRÂNSITO
+DF;97012;18;419;seção redesenhada? comparecimento 1T 35 > aptos 2T 33;BRASÍLIA;UNIDADE DE INTERNAÇÃO DE SÃO SEBASTIÃO
+SP;72036;175;138;seção redesenhada? comparecimento 1T 70 > aptos 2T 60;TUPI PAULISTA;PENITENCIÁRIA FEMININA DE TUPI PAULISTA
+SP;61085;205;81;seção redesenhada? comparecimento 1T 34 > aptos 2T 27;IARAS;PENITENCIÁRIA ORLANDO BRANDO FILINTO
+PE;25313;5;509;seção redesenhada? comparecimento 1T 331 > aptos 2T 311;RECIFE;CENTRO DE CIÊNCIAS SOCIAIS APLICADAS - UFPE - VOTO EM TRÂNSITO
+SP;63894;149;119;seção redesenhada? comparecimento 1T 34 > aptos 2T 27;DRACENA;PENITENCIARIA ASP ADRIANO APARECIDO DE PIERI DE DRACENA
+SC;81051;100;528;seção redesenhada? comparecimento 1T 150 > aptos 2T 147;FLORIANÓPOLIS;CRECHE MARIA TEREZINHA SARDÁ DA LUZ (ANTIGO N.E.I. PRAIA DO FORTE)
+GO;92274;132;548;seção redesenhada? comparecimento 1T 56 > aptos 2T 47;APARECIDA DE GOIÂNIA;CASA DE PRISÃO PROVISÓRIA - CPP
+PE;25313;5;22;seção redesenhada? comparecimento 1T 328 > aptos 2T 310;RECIFE;CENTRO DE CIÊNCIAS SOCIAIS APLICADAS - UFPE - VOTO EM TRÂNSITO
+BA;34134;170;262;seção redesenhada? comparecimento 1T 107 > aptos 2T 68;CAMAÇARI;ESCOLA LUIZ PEREIRA COSTA
+MG;46531;136;216;seção redesenhada? comparecimento 1T 26 > aptos 2T 21;ITAMBACURI;PRESÍDIO DE ITAMBACURI
+RS;87491;31;247;seção redesenhada? comparecimento 1T 35 > aptos 2T 34;MONTENEGRO;PENITENCIÁRIA ESTADUAL MODULADA AGENTE JAIR FIORIN
+MG;41416;43;132;seção redesenhada? comparecimento 1T 27 > aptos 2T 21;BOA ESPERANÇA;PRESÍDIO DE BOA ESPERANÇA
+PE;25313;5;21;seção redesenhada? comparecimento 1T 323 > aptos 2T 312;RECIFE;CENTRO DE CIÊNCIAS SOCIAIS APLICADAS - UFPE - VOTO EM TRÂNSITO
+MA;9210;2;512;seção redesenhada? comparecimento 1T 171 > aptos 2T 142;SÃO LUÍS;U. E. B. DARCY RIBEIRO VT
+MA;9210;89;532;seção redesenhada? comparecimento 1T 285 > aptos 2T 276;SÃO LUÍS;CECEN/UEMA
+PE;24910;117;417;seção redesenhada? comparecimento 1T 201 > aptos 2T 139;OLINDA;CENTRO DE CONVENCOES - VOTO EM TRÂNSITO
+MA;9210;2;511;seção redesenhada? comparecimento 1T 223 > aptos 2T 193;SÃO LUÍS;C. E. PROF. LUIZ ALVES FERREIRA VT
+CE;13188;78;418;seção redesenhada? comparecimento 1T 29 > aptos 2T 26;HORIZONTE;UNIDADE PRISIONAL DE ENSINO, CAPACITAÇÃO E TRABALHO
+PE;25313;5;517;seção redesenhada? comparecimento 1T 329 > aptos 2T 310;RECIFE;CENTRO DE CIÊNCIAS SOCIAIS APLICADAS - UFPE - VOTO EM TRÂNSITO

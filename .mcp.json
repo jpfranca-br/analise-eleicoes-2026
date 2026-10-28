@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "eleicoes-2026": {
+      "type": "stdio",
+      "command": ".venv/Scripts/python.exe",
+      "args": ["-I", "-X", "utf8", "servidor_mcp/servidor.py"]
+    }
+  }
+}

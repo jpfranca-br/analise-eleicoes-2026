@@ -1,0 +1,4 @@
+# troque pelo seu domínio (o DNS precisa apontar para o servidor)
+eleicoes.seudominio.com.br {
+	reverse_proxy mcp:8000
+}
