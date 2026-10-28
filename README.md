@@ -26,9 +26,9 @@ Os votos individuais extraídos dos logs (~490 milhões de linhas, 1,9 GB) estã
 (`logs_2026.zip`, `logs_2022.zip`, com `SHA256SUMS.txt`):
 
 ```bash
-git clone https://github.com/<dono>/<repositorio>.git && cd <repositorio>
+git clone https://github.com/jpfranca-br/analise-eleicoes-2026.git && cd analise-eleicoes-2026
 python -m venv .venv && .venv/Scripts/python -m pip install -r requirements.txt
-.venv/Scripts/python -I scripts/00_baixar_dados_processados.py --repo <dono>/<repositorio>   # -> dados/processados/logs
+.venv/Scripts/python -I scripts/00_baixar_dados_processados.py --repo jpfranca-br/analise-eleicoes-2026   # -> dados/processados/logs
 ```
 
 Os ~363 GB brutos do TSE só são necessários para refazer o pipeline do zero ou para a ferramenta `log_urna`
